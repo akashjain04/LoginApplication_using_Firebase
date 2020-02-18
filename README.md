@@ -12,7 +12,7 @@ This project is basically created to demonstrate the usage of firebase with Andr
 #### 1) Register Activity 
 > Allows users to register an account using thier email id and password.
 > It also contains a link to go back to Login Activity
-![Alt text](output_ss/RegistrationPage.png?raw=true "RegisterActivity")
+
 
 #### 2)Login Activity
 > Allows to user to login to thier account.
@@ -21,6 +21,13 @@ This project is basically created to demonstrate the usage of firebase with Andr
 
 #### 3)Home Activity
 > It has a logout button to logout from the application.
+
+## Activity looks similar to:-
+
+![Alt text](output_ss/RegistrationPage.png?raw=true "RegisterActivity")
+![Alt text](output_ss/loginPage.png?raw=true "LoginActivity")
+![Alt text](output_ss/HomePage.png?raw=true "HomeActivity")
+
 
 ## To connect Firebase to your Android application:-
 #### Refer this
