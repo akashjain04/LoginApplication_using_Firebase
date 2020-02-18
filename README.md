@@ -12,6 +12,7 @@ This project is basically created to demonstrate the usage of firebase with Andr
 #### 1) Register Activity 
 > Allows users to register an account using thier email id and password.
 > It also contains a link to go back to Login Activity
+![Alt text](output_ss/RegistrationPage.png?raw=true "RegisterActivity")
 
 #### 2)Login Activity
 > Allows to user to login to thier account.
