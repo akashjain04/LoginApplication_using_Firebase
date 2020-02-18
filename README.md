@@ -24,5 +24,6 @@ This project is basically created to demonstrate the usage of firebase with Andr
 ## To connect Firebase to your Android application:-
 #### Refer this
 > [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+
 > [Video Tutorial](https://www.youtube.com/watch?time_continue=4&v=cNPCgJW8c-E&feature=emb_logo)
 
