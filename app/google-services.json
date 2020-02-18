@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406608997928",
+    "firebase_url": "https://loginapplication-2353e.firebaseio.com",
+    "project_id": "loginapplication-2353e",
+    "storage_bucket": "loginapplication-2353e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406608997928:android:aed99978fdea64ce108f1d",
+        "android_client_info": {
+          "package_name": "com.example.hp.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406608997928-fgb9qdjsioeu53cvip7nbq031hjifmac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.loginapplication",
+            "certificate_hash": "22af22aaf2f09bd56a79ce1b068274c545e7fc0d"
+          }
+        },
+        {
+          "client_id": "406608997928-o2jg1g0kmn40jsi1rpm7jvhgc40ch838.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNIM6j-xPgokwZ12povkDV2gIcVd7acg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406608997928-o2jg1g0kmn40jsi1rpm7jvhgc40ch838.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
